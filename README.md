@@ -1,6 +1,6 @@
 # Career Craft AI
 
-Welcome to **Career Craft AI**, an innovative career development platform built to empower individuals with personalized guidance and AI-driven tools. Our mission is to simplify, accelerate, and enhance your career journey by providing smarter recommendations and resources tailored to your unique goals and aspirations.
+Welcome to **Career Craft AI**, an innovative career development platform built to empower individuals with personalized guidance and AI-driven tools. Our mission is to simplify, accelerate, and enhance your career journey by providing smarter recommendations and resources tailored to your unique goals and aspirations .
 
 ## Table of Contents
 
